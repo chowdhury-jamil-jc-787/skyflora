@@ -712,7 +712,7 @@ section{
   left: 50%;
   transform: translate(-50%, -50%);
   height: 340px;
-  width: 500px;
+  width: 460px;
   transform-style: preserve-3d;
  perspective: 1000px;
  position: relative;
